@@ -1,0 +1,6 @@
+{
+  "name": "Prompt Architect",
+  "description": "Analyze existing AI images to extract prompts and step-by-step creation guides, or build custom high-quality prompt templates with interactive style dials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
